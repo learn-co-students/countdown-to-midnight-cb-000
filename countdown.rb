@@ -19,7 +19,3 @@ def countdown_with_sleep(seconds)
   end
   "HAPPY NEW YEAR!"
 end
-
-
-# tests
-#countdown_with_sleep(5)
